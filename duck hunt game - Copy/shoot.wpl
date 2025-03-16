@@ -1,0 +1,19 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7600.16385"/>
+        <meta name="ItemCount" content="1"/>
+        <meta name="IsFavorite"/>
+        <meta name="ContentPartnerListID"/>
+        <meta name="ContentPartnerNameType"/>
+        <meta name="ContentPartnerName"/>
+        <meta name="Subtitle"/>
+        <author/>
+        <title>shoot</title>
+    </head>
+    <body>
+        <seq>
+            <media src="C:\Users\Pankaj\Documents\Downloads\gun-shot-amw-notification-59710 (4).mp3" tid="{1DAF8296-5185-4C29-A7C2-5B4CA6B04FFE}"/>
+        </seq>
+    </body>
+</smil>

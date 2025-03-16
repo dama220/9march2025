@@ -1,0 +1,11 @@
+.{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    width: 99%;
+    height:95%;
+    background-image: url("./practice/food.jpg");
+
+}
