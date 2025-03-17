@@ -1,0 +1,11 @@
+jQuery traversing
+
+parent ---->child (traversing down/desendants)
+
+child ------>parent (traversing up/ancestors)
+
+Traversing up the dom tree
+
+parent is a jquery method/function
+
+parent method select the direct parent
